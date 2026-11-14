@@ -1,6 +1,10 @@
 <img src="./assets/banner.png" width="100%" alt="Pixel-art workspace overlooking Dhaka at night, with an AI dashboard and a small rover on the desk." />
 
-# Asim Alam Chowdhury
+<h1 align="center">Asim Alam Chowdhury</h1>
+
+<p align="center">
+  <img src="./assets/typing-loop.gif" width="520" alt="Multi-Agent AI, Hybrid RAG and Search, TinyML and ESP32 Robotics" />
+</p>
 
 I study Software Engineering at the University of Dhaka. I build AI agents that work with local documents, tools that show where their answers come from, and robots that can listen and see on-device.
 
